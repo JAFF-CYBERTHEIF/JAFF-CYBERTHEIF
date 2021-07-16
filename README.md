@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JAFF-CYBERTHEIF
 - 👀 I’m interested in AI 
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 
 - 📫 How to reach me- www.linkedin.com/in/jawahar-b/
 
 <!---
