@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @JAFF-CYBERTHEIF
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning Machine learning
+- 👋 Hi, I’m jawahar
+- 👀 I’m interested in AI | Robotics | Design 
+- 🌱 Mechatronics Engineer
 - 💞️ 
 - 📫 How to reach me- www.linkedin.com/in/jawahar-b/
+- <div>
+		<a href="https://github.com/JAFF-CYBERTHEIF" target="_blank">
+		<img src="../images/github logo.png" alt="image not loaded" height="50"/>
+		</a>
+		<a href="https://www.instagram.com/jawahar_jaff/?hl=en" target="_blank">
+		<img src="../images/instagram logo.png" alt="image not loaded" height="50"/>
+		</a>
+		<a href="https://www.linkedin.com/in/jawahar-b/" target="_blank">
+		<img src="../images/linkedin logo.png" alt="image not loaded" height="50"/>
+		</a>
+		<a href="mailto: bjawahar10@gmail.com" target="_blank">
+		<img src="../images/mail logo.png" alt="image not loaded" height="50"/>
+		</a>
+	</div>
 
 <!---
 JAFF-CYBERTHEIF/JAFF-CYBERTHEIF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
