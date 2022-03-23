@@ -5,7 +5,7 @@
 - 📫 How to reach me-
 - <div>
 		<a href="https://github.com/JAFF-CYBERTHEIF" target="_blank">
-		Github 
+	        Github 
 		</a>
 		<a href="https://www.instagram.com/jawahar_jaff/?hl=en" target="_blank">
 		Instagram
@@ -14,7 +14,7 @@
 		Linkedin
 		</a>
 		<a href="mailto: bjawahar10@gmail.com" target="_blank">
-		Mail
+			📧
 		</a>
 	</div>
 
