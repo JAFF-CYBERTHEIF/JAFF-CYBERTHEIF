@@ -14,6 +14,7 @@
 		Linkedin
 		</a>
 		<a href="mailto: bjawahar10@gmail.com" target="_blank">
+			mail
 			📧
 		</a>
 	</div>
