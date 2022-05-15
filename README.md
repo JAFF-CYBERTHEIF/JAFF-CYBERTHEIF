@@ -7,7 +7,7 @@
 		<a href="https://github.com/JAFF-CYBERTHEIF" target="_blank">
 	        Github 
 		</a>
-		<a href="https://www.instagram.com/jawahar_jaff/?hl=en" target="_blank">
+		<a href="https://www.instagram.com/py_coder_wall/" target="_blank">
 		Instagram
 		</a>
 		<a href="https://www.linkedin.com/in/jawahar-b/" target="_blank">
