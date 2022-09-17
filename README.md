@@ -17,7 +17,7 @@
 		</a>
 	<b> | </b>
 		<a href="https://jawahar-port.w3spaces.com/" target="_blank">
-		PORTFOLIO
+		Portfolio
 		</a>
 	<b> | </b>
 		<a href="mailto: bjawahar10@gmail.com" target="_blank">
