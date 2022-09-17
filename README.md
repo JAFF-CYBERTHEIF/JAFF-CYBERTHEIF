@@ -13,9 +13,11 @@
 		<a href="https://www.linkedin.com/in/jawahar-b/" target="_blank">
 		Linkedin
 		</a>
+		<a href="https://jawahar-port.w3spaces.com/" target="_blank">
+		PORTFOLIO
+		</a>
 		<a href="mailto: bjawahar10@gmail.com" target="_blank">
-			mail
-			📧
+	        mail
 		</a>
 	</div>
 
